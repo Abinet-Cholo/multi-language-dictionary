@@ -1,4 +1,3 @@
-```
 # Multi-language Dictionary ("Translator") 📚🌍
 
 This repository contains the solution for **Assignment 3: Multi-language Dictionary** from the **Data Structures (CS-UH 1050)** course, Spring 2024 at NYU Abu Dhabi. The program implements a multi-language dictionary using hash tables, providing efficient storage and retrieval of word translations in various languages.
@@ -43,4 +42,3 @@ The dictionary program allows users to:
 Feel free to reach out to me for any questions or feedback:
 - **Email**: ab11475@nyu.edu
 - **LinkedIn**: [abinet-cholo-a6a13029a](https://www.linkedin.com/in/abinet-cholo-a6a13029a)
-```
